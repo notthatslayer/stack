@@ -70,4 +70,4 @@ If you have ideas for improvements or somehow manage to get a ridiculously high 
 
 ## Author
 
-Built with love by **Tayyaba Shaikh :)*
+Built with love by **Tayyaba Shaikh :)**
