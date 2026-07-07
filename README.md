@@ -64,20 +64,10 @@ After recreating the "Red Light, Green Light" game, I wanted to build something 
 
 This time, I focused less on visuals and more on gameplay. The goal was to recreate that satisfying "one more try" feeling with nothing more than HTML Canvas and a few hundred lines of JavaScript.
 
-## Running Locally
-
-```bash
-git clone https://github.com/notthatslayer/stack.git
-
-cd stack
-```
-
-Then simply open `index.html` in your browser.
-
 ## Feedback
 
 If you have ideas for improvements or somehow manage to get a ridiculously high score, I'd love to hear about it! ^_^
 
 ## Author
 
-Built with love by **Tayyaba Shaikh :)**.
+Built with love by **Tayyaba Shaikh :)*
