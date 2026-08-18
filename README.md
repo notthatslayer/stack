@@ -18,7 +18,7 @@ Live link: https://notthatslayer.github.io/stack/
 ## Preview
 
 <p align="center">
-  <img src="block.jpeg" alt="Cover Image" width="45%" height="50%">
+  <img src="block.jpeg" alt="Cover Image"><br><br>
   <img src="stack.png" alt="Gameplay Screenshot 1" width="45%" height="50%">
   <img src="stack2.png" alt="Gameplay Screenshot 2" width="45%" height="50%">
 </p>
